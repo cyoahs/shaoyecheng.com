@@ -37,6 +37,13 @@ style:
     percent:
       enable: true
 
+post:
+  author_label:
+    enable: false
+    auto: true  # if true, show Lv1, Lv2, Lv3... , If false, show custom label
+    # label array item can be one or more
+    custom_label_list: [ "Trainee", "Engineer", "Architect", "CTO", "BOSS" ]
+
 social_contact:
   enable: true
   links:
