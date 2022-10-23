@@ -1,7 +1,7 @@
 ---
 title: Stable-Diffusion图片生成
 date: 2022-09-06 20:16:07
-tags:
+tags: 摸鱼
 ---
 
 A spectre is haunting Europe.
