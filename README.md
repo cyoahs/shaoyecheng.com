@@ -10,4 +10,7 @@
 # 新建文章
 # hexo new [layout] <title>
 hexo new post "new post"
+
+# 隐藏文章（不显示在主页/归档）
+header中添加tag, 设置 hidden: true
 ```
