@@ -76,6 +76,16 @@ toc:
   # If true, open TOC every time when you enter the article page
   init_open: true
 
+website_count:
+  busuanzi_count:
+    enable: true
+    site_uv: true
+    site_pv: true
+    page_pv: true
+
+pjax:
+  enable: true
+
 footer:
   since: 2018
   icp: 浙ICP备18032789号-1             # ICP record number of your website, Can be null
