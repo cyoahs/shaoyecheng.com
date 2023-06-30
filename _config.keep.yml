@@ -84,7 +84,7 @@ website_count:
     page_pv: true
 
 pjax:
-  enable: true
+  enable: false
 
 footer:
   since: 2018
