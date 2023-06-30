@@ -55,6 +55,8 @@ social_contact:
 menu:
   Home: /
   Archives: /archives
+  CV: /cv
+  About: /about
 
 home_article:
   category:
