@@ -43,10 +43,10 @@ date: 2023-06-30 18:17:27
 
 # 发表论文
 
-- SHAO Y, JIN Y, LIU X, HE W, WANG H, YANG W. Learning Free Gait Transition for QuadrupedRobotsViaPhase-GuidedController[J/OL].IEEERoboticsandAutomationLetters, 2022, 7(2): 1230-1237. https://doi.org/10.1109/LRA.2021.3136645.
-- SHAO Y, JIN Y, HUANG Z, WANG H, YANG W. A Learning-Based Control Framework
+- **SHAO Y**, JIN Y, LIU X, HE W, WANG H, YANG W. Learning Free Gait Transition for QuadrupedRobotsViaPhase-GuidedController[J/OL].IEEERoboticsandAutomationLetters, 2022, 7(2): 1230-1237. https://doi.org/10.1109/LRA.2021.3136645.
+- **SHAO Y**, JIN Y, HUANG Z, WANG H, YANG W. A Learning-Based Control Framework
 For Generic Motor Skills[J]. Journal of Zhejiang University-SCIENCE A. In Press. http://www.jzus.zju.edu.cn/iparticle.php?doi=10.1631/jzus.A2300128
-- JIN Y, LIU X, SHAO Y, WANG H, YANG W. High-speed quadrupedal locomotion by imitation-relaxation reinforcement learning[J/OL]. Nature Machine Intelligence, 2022, 4(12): 1198-1208. https://doi.org/10.1038/s42256-022-00576-3.
-- LIANGC,ZHANGQ,SHAOY,BUY,LIUJ,LIX,WANGH,YANGW.Influenceofload orientations with respect to twin boundaries on the deformation behaviors of high-entropy alloy nanocrystals[J/OL]. MRS Bulletin, 2021, 46(3): 205-216. https://doi.org/10.1557/s43577-021-00046-y.
-- NIE A, BU Y, HUANG J, SHAO Y, ZHANG Y, HU W, LIU J, WANG Y, XU B, LIU Z, WANG H, YANG W, TIAN Y. Direct Observation of Room-Temperature Dislocation Plasticity in Diamond[J/OL]. Matter, 2020, 2(5): 1222-1232. https://doi.org/10.1016/j.matt.2020.02.011.
-- WANG P, SHAO Y, WANG H, YANG W. Accurate interatomic force field for molecular dynamics simulation by hybridizing classical and machine learning potentials[J/OL]. Extreme Mechanics Letters, 2018, 24: 1-5. https://doi.org/10.1016/J.EML.2018.08.002.
+- JIN Y, LIU X, **SHAO Y**, WANG H, YANG W. High-speed quadrupedal locomotion by imitation-relaxation reinforcement learning[J/OL]. Nature Machine Intelligence, 2022, 4(12): 1198-1208. https://doi.org/10.1038/s42256-022-00576-3.
+- LIANG C, ZHANG Q, **SHAO Y**, BU Y, LIU J, LI X, WANG H, YANG W.Influenceofload orientations with respect to twin boundaries on the deformation behaviors of high-entropy alloy nanocrystals[J/OL]. MRS Bulletin, 2021, 46(3): 205-216. https://doi.org/10.1557/s43577-021-00046-y.
+- NIE A, BU Y, HUANG J, **SHAO Y**, ZHANG Y, HU W, LIU J, WANG Y, XU B, LIU Z, WANG H, YANG W, TIAN Y. Direct Observation of Room-Temperature Dislocation Plasticity in Diamond[J/OL]. Matter, 2020, 2(5): 1222-1232. https://doi.org/10.1016/j.matt.2020.02.011.
+- WANG P, **SHAO Y** , WANG H, YANG W. Accurate interatomic force field for molecular dynamics simulation by hybridizing classical and machine learning potentials[J/OL]. Extreme Mechanics Letters, 2018, 24: 1-5. https://doi.org/10.1016/J.EML.2018.08.002.
