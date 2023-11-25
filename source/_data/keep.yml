@@ -286,7 +286,7 @@ rss:
 # Docs: https://keep-docs.xpoet.cn/basis/configuration-guide/lazyload.html
 # ---------------------------------------------------------------------------------------
 lazyload:
-  enable: true  # Option values: true | false
+  enable: false  # Option values: true | false
 
 
 # ---------------------------------------------------------------------------------------
