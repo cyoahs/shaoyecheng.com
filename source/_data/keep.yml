@@ -113,7 +113,7 @@ home:
   tag: true  # Option values: true | false
 
   # Website announcement in home page
-  announcement: [2023.11.26] 由于未知问题，视频需要刷新网页后才能出现。
+  announcement: 2023.11.26 由于未知问题，视频需要刷新网页后才能出现。
 
 
 # ---------------------------------------------------------------------------------------
