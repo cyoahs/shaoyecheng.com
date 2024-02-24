@@ -22,5 +22,5 @@ var player = new DogePlayer({
 ## 中二AI
 
 {% raw %}
-<img src="http://general-dogecdn.shaoyecheng.com/web_figures/2212/rsc.jpg" width="600" height="600" onmouseover="this.src='http://general-dogecdn.shaoyecheng.com/web_figures/2212/ai.png'" onmouseout="this.src='http://general-dogecdn.shaoyecheng.com/web_figures/2212/rsc.jpg'" />
+<img src="https://large-dogecdn.shaoyecheng.com/img/rsc.jpg" width="600" height="600" onmouseover="this.src='https://large-dogecdn.shaoyecheng.com/img/ai.png'" onmouseout="this.src='https://large-dogecdn.shaoyecheng.com/img/rsc.jpg'" />
 {% endraw %}
