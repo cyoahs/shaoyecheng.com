@@ -8,7 +8,7 @@ tags:
 
 {% raw %}
 <iframe id="dogePlayerFrame" src="https://player.dogecloud.com/web/player.html?vcode=99c7856e2ee90e8d&userId=2561&autoPlay=false&inFrame=true" allowfullscreen="true" msallowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" oallowfullscreen="true" allowtransparency="true" scrolling="no" width="800" height="600" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen" referrerPolicy="unsafe-url"></iframe>
-{$ endraw $}
+{% endraw %}
 
 # 精简版
 
